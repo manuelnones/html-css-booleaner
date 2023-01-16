@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.sfondo-logo{
+    height: 100px;
+    background-color: rgb(84, 163, 243);
+    background-image: url(img/pattern.png);
+    background-position: left top;
+    background-size: 380px;
+    background-repeat: repeat;
+}
+
+.logo{
+    height: 50px;
+    margin: 45px 5px;
+    background-image: url(img/pattern.png);
+}
