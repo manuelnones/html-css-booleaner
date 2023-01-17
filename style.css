@@ -52,6 +52,30 @@
     width: 25%;
 }
 
+
+#interest-you{
+    margin-top: 40px;
+}
+
+.footer-image{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    width: 280px;
+    height: 160px;
+    color: #FFFFFF;
+}
+
+#footer-image1{
+    background-image: url(img/monitor.jpg);
+
+}
+
+#footer-image2{
+    background-image: url(img/graph.jpg);
+    
+}
+
 #table-title{
     color: white;
     background-color: #20A9E5;
@@ -63,7 +87,7 @@
 
 }
 
-.author{
+.grey-color{
     color: #828282;
 }
 
