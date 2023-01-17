@@ -34,6 +34,31 @@
     margin-top: 15px;
 }
 
+#ul-text{
+    padding-inline-start: 20px;
+}
+
+#table table{
+    border-collapse: collapse;
+    margin-top: 25px;
+    text-align: left;
+}
+
+.table-box{
+    width: 25%;
+}
+
+#table-title{
+    color: white;
+    background-color: #20A9E5;
+
+}
+
+.tbody-box{
+    background-color: #B1E5F2;
+
+}
+
 .author{
     color: #828282;
 }
