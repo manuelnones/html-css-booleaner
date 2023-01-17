@@ -1,19 +1,31 @@
-body{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.sfondo-logo{
+#logo-page{
     height: 100px;
-    background-color: rgb(84, 163, 243);
+    background-color: #4EA0FF;
     background-image: url(img/pattern.png);
-    background-position: left top;
-    background-size: 380px;
-    background-repeat: repeat;
+    background-size: 32%;
 }
 
-.logo{
+#logo-booleaner{
     height: 50px;
-    margin: 45px 5px;
-    background-image: url(img/pattern.png);
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+#container{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.author{
+    color: #828282;
+}
+
+.date{
+    font-size: 13px;
 }
